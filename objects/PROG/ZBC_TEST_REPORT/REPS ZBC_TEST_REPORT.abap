@@ -7,4 +7,4 @@ REPORT ZBC_TEST_REPORT.
 
 DATA: lv_text TYPE string.
 
-lv_text = 'Text v.1'.
+lv_text = 'Text v.2'.
